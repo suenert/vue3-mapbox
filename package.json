@@ -9,9 +9,6 @@
   },
   "main": "src/main.js",
   "module": "dist/vue-mapbox.js",
-  "publishConfig": {
-    "registry": "https://artifactory.tusimple.ai/artifactory/api/npm/npm-infra-common/"
-  },
   "dependencies": {
     "@mapbox/mapbox-gl-draw": "^1.2.2",
     "@turf/circle": "^6.3.0",
